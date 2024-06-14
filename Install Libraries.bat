@@ -1,0 +1,1 @@
+start Powershell.exe -executionpolicy remotesigned -File "Powershell\Install Python Libraries.ps1"

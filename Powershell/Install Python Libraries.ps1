@@ -1,0 +1,1 @@
+py -m pip install jupyter lab jpype1 tabula-py PyPDF2 Selenium tk ttkthemes pandastable pandas openpyxl customtkinter
